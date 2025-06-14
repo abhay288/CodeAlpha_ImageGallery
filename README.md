@@ -59,3 +59,43 @@ npm run dev
 Build for Production
 npm run build
 
+
+
+
+
+
+
+
+
+
+
+🛠️ Tech Stack
+
+    React + TypeScript
+
+    Tailwind CSS for styling
+
+    Framer Motion for animations
+
+    Pexels API (for sample images)
+
+    Netlify for deployment
+
+📌 Future Improvements
+
+    User authentication for personal galleries
+
+    Cloud storage integration (e.g. Firebase)
+
+    Image editing tools (crop, rotate, etc.)
+
+    Theme switcher (light/dark)
+
+🙌 Contributing
+
+Contributions are welcome! Feel free to fork this repo, open issues or submit pull requests.
+
+
+
+
+MIT License © 2025 Abhay Kushwaha
